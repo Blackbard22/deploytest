@@ -1,5 +1,5 @@
 tracker_url: http://localhost:8082
-
+project_id: 2
 image_repository: ghcr.io/blackbard22/deploytest-2
 ghcr_username: Blackbard22
 workflow_ref: dev
