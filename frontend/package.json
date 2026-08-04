@@ -1,6 +1,6 @@
 {
   "name": "deploytest-frontend",
   "private": true,
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "DeployTrack smoke-test frontend"
 }
